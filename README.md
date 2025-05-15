@@ -113,17 +113,17 @@ python -m venv venv
 
 Для bash:
 ```sh
-/venv/Scripts/activate
+./venv/Scripts/activate
 ```
 
 Для PowerShell
 ```ps1
-/venv/Scripts/Activate.ps1
+.\venv\Scripts\Activate.ps1
 ```
 
 Для cmd
 ```cmd
-/venv/Scripts/activate.bat
+.\venv\Scripts\activate.bat
 ```
 
 5.  Установить необходимые зависимости из файла `requirements.txt`
